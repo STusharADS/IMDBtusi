@@ -1,0 +1,8 @@
+.cardcss{
+    border-radius: 3px;
+    box-shadow: 0 4px 8px 0 rgb(233, 188, 7), 0 6px 20px 0 rgba(224, 9, 9, 0.89);
+    border-style: double;
+    border-color: rgb(6, 255, 14);
+    border-width: 5px;
+    
+}
