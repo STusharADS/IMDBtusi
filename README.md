@@ -1,12 +1,21 @@
-# React + Vite
+# Tushar's Cinema 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A movie discovery and watchlist app that allows users to browse trending movies, add them to their personal watchlist, and manage movie preferences. Built with React and the MovieDB API.
 
-Currently, two official plugins are available:
+## Features ✨
+- 📽️ View trending movies.
+- ❤️ Add movies to the watchlist with a rating-based sort.
+- 🔍 Search and filter movies by genres.
+- 🗑️ Manage watchlist by removing or sorting movies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used 🛠️
+- React ⚛️
+- React Router 🔄
+- Tailwind CSS 🎨
+- MovieDB API 🎥
 
-## Expanding the ESLint configuration
+## Installation 🚀
+1. Clone the repository.
+2. Run `npm run dev` 
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
