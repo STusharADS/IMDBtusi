@@ -47,7 +47,7 @@ function App() {
         <Routes>
           <Route path="/" element={<><Movies/></>}></Route>
           <Route path="/WatchList"  element={<WatchList  watchList={watchList} handleDeleteFromWatchList={handleDeleteFromWatchList}/>}></Route>
-          <Route path="/recommend" element={<MovieRecommendation/>}></Route>
+          {/* <Route path="/recommend" element={<MovieRecommendation/>}></Route> */}
         </Routes>
       </BrowserRouter>
     </>

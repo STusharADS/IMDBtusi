@@ -12,7 +12,7 @@ function Navbar() {
       <img height="70px" width="70px" src={logo} alt="Movie Logo" />
       <Link to="/" className="text-blue-500 text-2xl font-bold" style={{color:(location.pathname==="/") ? 'skyblue' : ''}}> Movies</Link>
       <Link to="/watchlist" className="text-blue-500 text-2xl font-bold" style={{color:(location.pathname==="/watchlist") ? 'skyblue' : ''}}> WatchList</Link>
-      <Link to="/recommend" className="text-blue-500 text-2xl font-bold" style={{color:(location.pathname==="/recommend") ? 'skyblue' : ''}}>Movies Recommendations</Link>
+      {/* <Link to="/recommend" className="text-blue-500 text-2xl font-bold" style={{color:(location.pathname==="/recommend") ? 'skyblue' : ''}}>Movies Recommendations</Link> */}
     </nav>
   );
 }
