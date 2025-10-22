@@ -19,9 +19,9 @@ A movie discovery and watchlist app that allows users to browse trending movies,
 2. Run `npm run dev` 
 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/76c4acb5-0820-4bce-bd58-5bfa2a333dfb" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/76c4acb5-0820-4bce-bd58-5bfa2a333dfb" />
 
-<img width="300" height="1600" alt="image" src="https://github.com/user-attachments/assets/46452921-c883-48db-b616-1fdd7ad83592" />
+<img width="100" height="1600" alt="image" src="https://github.com/user-attachments/assets/46452921-c883-48db-b616-1fdd7ad83592" />
 
 
 
